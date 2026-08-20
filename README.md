@@ -1,4 +1,4 @@
-# Pandas Practice Notebooks
+# Pandas Practice Notebook
 
 Pandas is an open-source Python library designed for **data manipulation and analysis**. It makes working with structured data **fast, flexible, and intuitive** — especially if you're dealing with CSV files, Excel sheets, SQL tables, JSON, or APIs.
 
